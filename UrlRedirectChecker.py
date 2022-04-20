@@ -4,7 +4,7 @@ import threading
 import requests
 import time
 
-
+""" Congiguration """
 threads = 5
 sep = ','
 only_domains = True
